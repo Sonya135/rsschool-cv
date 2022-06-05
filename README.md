@@ -1,3 +1,3 @@
 # rsschool-cv
-Config files for my GitHub profile.
-+
+
+'https://Sonya135.github.io/rsschool-cv/cv'
