@@ -10,7 +10,7 @@ Phone: +375296882832
 
 Email: *sbanshchyk@bk.ru*
 
-<img src='photo.ipg'>
+<img src='photo.jpg'>
 
 ***Financial Analyst***
 
